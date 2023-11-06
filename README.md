@@ -3,7 +3,7 @@
 Projeto Final da disciplica LP2
 Sistema para gerenciar reservas em um hotel de luxo.
 
-Além de seguir os padrões de desing OO, outros pontos que foram exigidos e serviram de aprendizado:
+Além de seguir os padrões de desing OO, outros pontos que foram exigidos que serviram de aprendizado:
 * Tratamento de Datas
 * Exceções
 * Testes
